@@ -3022,7 +3022,7 @@ h6 {
 }
 
 .icon-background {
-  background: -webkit-linear-gradient(270deg, #766dff 0%, #88f3ff 100%);
+  background: -webkit-linear-gradient(270deg, #88f3ff 0%, #766dff 100%);
   background-position-y: 0%;
   transition: all .3s linear;
   height: 100px;
