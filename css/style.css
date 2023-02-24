@@ -3011,9 +3011,12 @@ h6 {
   mask-image: url('../img/service-icons/database.png');
   height: 100px;
   width: 100px;
-  background: #7b94ffbf;
   -webkit-mask-size: 100px, 100px;
   transition: all .3s linear;
+}
+
+.icon-background {
+  background: #766dff;
 }
 
 .icon-background:hover {
