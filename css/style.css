@@ -3015,4 +3015,8 @@ h6 {
   -webkit-mask-size: 100px, 100px;
   transition: all .3s linear;
 }
+
+.icon-background:hover {
+  background: -webkit-linear-gradient(270deg, #766dff 0%, #88f3ff 100%);
+}
 /* End Service Icons */
