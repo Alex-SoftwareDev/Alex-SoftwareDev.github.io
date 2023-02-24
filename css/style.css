@@ -3009,7 +3009,16 @@ h6 {
 .database-icon {
   -webkit-mask-image: url('../img/service-icons/database.png');
   mask-image: url('../img/service-icons/database.png');
-  
+}
+
+.code-optimization-icon {
+  -webkit-mask-image: url('../img/service-icons/optimizing.png');
+  mask-image: url('../img/service-icons/optimizing.png');
+}
+
+.testing-icon {
+  -webkit-mask-image: url('../img/service-icons/checklist.png');
+  mask-image: url('../img/service-icons/checklist.png');
 }
 
 .icon-background {
