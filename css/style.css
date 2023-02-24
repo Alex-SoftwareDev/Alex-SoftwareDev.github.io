@@ -3020,10 +3020,10 @@ h6 {
   width: 100px;
   -webkit-mask-size: 100px, 100px;
   mask-size: 100px 100px;
+  background-size: 100px 200px;
 }
 
 .icon-background:hover {
-  background-position-y: 50%;
-  background-size: 100px 200px;
+  background-position-y: 50%; 
 }
 /* End Service Icons */
