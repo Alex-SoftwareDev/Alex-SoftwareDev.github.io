@@ -3014,18 +3014,16 @@ h6 {
 }
 
 .icon-background {
-  background: -webkit-linear-gradient(270deg, #9abf9b 0%, #055c09 100%);
-  background-position-y: -100%;
+  background:#055c09;
   transition: all .3s linear;
   height: 100px;
   width: 100px;
   -webkit-mask-size: 100px, 100px;
   mask-size: 100px 100px;
-  background-size: 100px 200px;
 }
 
 .feature_item:hover .icon-background {
-  background-position-y: -50%; 
+  background: #9abf9b; 
 }
 /* End Service Icons */
 
